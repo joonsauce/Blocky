@@ -1,5 +1,5 @@
-# Bangla_Craft_Mod
-Mod for Bangla_Craft Server
+# Blocky
+Mod to replace texture pack items as independent blocks
 
 ## Stuff that will be added:
 - Full Removal of texture pack from server (replace texture pack blocks as completely independent blocks)
