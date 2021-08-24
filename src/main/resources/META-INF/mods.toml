@@ -1,0 +1,29 @@
+modLoader="javafml" 
+loaderVersion="[36,)"
+license="All rights reserved"
+# A URL to refer people to when problems occur with this mod
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]]
+modId="blocky" 
+version="0.1.0" 
+displayName="Blocky" 
+displayURL="https://joonsauce.me/projects"
+credits="Tales of Urine team for the MC server" 
+authors="Mod made by joonsauce" 
+description='''
+Replacing texture packs with independent blocks
+'''
+[[dependencies.blocky]]
+    modId="forge" 
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+    
+# below is broken for some odd reason    
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5)"
+    ordering="NONE"
+    side="BOTH"
