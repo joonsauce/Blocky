@@ -1,5 +1,5 @@
 # Blocky
-Replaces specific texture pack items/blocks and replaces them as independent blocks under Blocky. Currently only contains basic code, is being worked on actively
+Replaces specific texture pack items/blocks and replaces them as independent blocks under Blocky. Currently only contains basic code, development has been paused for the time being.
 
 ## Stuff that will be added:
 - Full Removal of texture pack (replace texture pack blocks as completely independent blocks)
